@@ -1,0 +1,6 @@
+--bfile reference\hapmap_CEU_r23a_filtered
+--from rs9629043
+--to rs745910
+--recode 
+--out data\filtered
+--noweb

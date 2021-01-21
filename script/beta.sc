@@ -1,0 +1,4 @@
+--file data\merged-test
+--proxy-impute all
+--proxy-show-proxies
+--noweb

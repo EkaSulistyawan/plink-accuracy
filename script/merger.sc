@@ -1,0 +1,5 @@
+--file data\filtered
+--merge data\test.ped data\filtered.map
+--recode
+--out data\merged-test
+--noweb
